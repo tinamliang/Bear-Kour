@@ -5,7 +5,7 @@
 A cute, lighthearted platform game originally inspired by the infamous Fireboy and Watergirl that's built using the javascript framework - phaser.js. Connected to a firebase database that displays a real-time leaderboard.
 <br>
 <p align="center">
-  <img src="src/assets/Bear-Kour.gif" alt="animated" />
+  <img src="src/assets/bear-demo.gif" alt="animated" />
 </p>
 
 ## Table of Contents
