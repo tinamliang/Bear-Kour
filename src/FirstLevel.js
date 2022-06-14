@@ -17,13 +17,13 @@ import win from 'url:./assets/complete.mp3';
 var cursors, character, coins, spikes, flagImg;
 
 const config = {
-    apiKey: "AIzaSyCNt8GnrR2bVcF-te7vs2JqRNrs6nPA2Ck",
-    authDomain: "tarzan-1cd25.firebaseapp.com",
-    databaseURL: "https://tarzan-1cd25-default-rtdb.firebaseio.com",
-    projectId: "tarzan-1cd25",
-    storageBucket: "tarzan-1cd25.appspot.com",
-    messagingSenderId: "934783132183",
-    appId: "1:934783132183:web:e3f64c4cae9cc418e37252"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
 
 class FirstLevel extends Phaser.Scene {
