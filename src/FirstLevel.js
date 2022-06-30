@@ -16,7 +16,7 @@ import win from 'url:./assets/complete.mp3';
 
 var cursors, character, coins, spikes, flagImg;
 
-const firebaseConfig = {
+const config = {
   apiKey: "AIzaSyCNt8GnrR2bVcF-te7vs2JqRNrs6nPA2Ck",
   authDomain: "tarzan-1cd25.firebaseapp.com",
   databaseURL: "https://tarzan-1cd25-default-rtdb.firebaseio.com",
